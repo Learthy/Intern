@@ -1,0 +1,61 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wxPlugin", "wxPlugin.vcproj", "{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DLL Debug|Win32 = DLL Debug|Win32
+		DLL Release|Win32 = DLL Release|Win32
+		DLL Unicode Debug|Win32 = DLL Unicode Debug|Win32
+		DLL Unicode Release|Win32 = DLL Unicode Release|Win32
+		DLL Universal Debug|Win32 = DLL Universal Debug|Win32
+		DLL Universal Release|Win32 = DLL Universal Release|Win32
+		DLL Universal Unicode Debug|Win32 = DLL Universal Unicode Debug|Win32
+		DLL Universal Unicode Release|Win32 = DLL Universal Unicode Release|Win32
+		Release|Win32 = Release|Win32
+		Unicode Debug|Win32 = Unicode Debug|Win32
+		Unicode Release|Win32 = Unicode Release|Win32
+		Universal Debug|Win32 = Universal Debug|Win32
+		Universal Release|Win32 = Universal Release|Win32
+		Universal Unicode Debug|Win32 = Universal Unicode Debug|Win32
+		Universal Unicode Release|Win32 = Universal Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Debug|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Debug|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Debug|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Release|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Release|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Unicode Debug|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Unicode Debug|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Unicode Release|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Unicode Release|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Universal Debug|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Universal Debug|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Universal Release|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Universal Release|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Universal Unicode Debug|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Universal Unicode Debug|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Universal Unicode Release|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.DLL Universal Unicode Release|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Release|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Release|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Unicode Debug|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Unicode Debug|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Unicode Release|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Unicode Release|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Universal Debug|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Universal Debug|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Universal Release|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Universal Release|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Universal Unicode Debug|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Universal Unicode Debug|Win32.Build.0 = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Universal Unicode Release|Win32.ActiveCfg = Debug|Win32
+		{B88D574E-35D4-4A27-8AF0-E2AD6BB9665B}.Universal Unicode Release|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Internship\Course Outline\Course Outline\Course Outline\bin\Debug\Database.mdf
+C:\Internship\Course Outline\Course Outline\Course Outline\bin\Debug\Database_log.ldf
+C:\Internship\Course Outline\Course Outline\Course Outline\bin\Debug\Course Outline.exe.config
+C:\Internship\Course Outline\Course Outline\Course Outline\bin\Debug\Course Outline.exe
+C:\Internship\Course Outline\Course Outline\Course Outline\bin\Debug\Course Outline.pdb
+C:\Internship\Course Outline\Course Outline\Course Outline\bin\Debug\Workaholic.RTFEditor.dll
+C:\Internship\Course Outline\Course Outline\Course Outline\obj\Debug\Course Outline.csprojAssemblyReference.cache
+C:\Internship\Course Outline\Course Outline\Course Outline\obj\Debug\Course_Outline.Form1.resources
+C:\Internship\Course Outline\Course Outline\Course Outline\obj\Debug\Course_Outline.Properties.Resources.resources
+C:\Internship\Course Outline\Course Outline\Course Outline\obj\Debug\Course Outline.csproj.GenerateResource.cache
+C:\Internship\Course Outline\Course Outline\Course Outline\obj\Debug\Course Outline.csproj.CopyComplete
+C:\Internship\Course Outline\Course Outline\Course Outline\obj\Debug\Course Outline.exe
+C:\Internship\Course Outline\Course Outline\Course Outline\obj\Debug\Course Outline.pdb
+C:\Internship\Course Outline\Course Outline\Course Outline\bin\Debug\itextsharp.dll
+C:\Internship\Course Outline\Course Outline\Course Outline\bin\Debug\itextsharp.xml
+C:\Internship\Course Outline\Course Outline\Course Outline\obj\Debug\Interop.Acrobat.dll
+C:\Internship\Course Outline\Course Outline\Course Outline\obj\Debug\Course Outline.csproj.ResolveComReference.cache
